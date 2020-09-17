@@ -1,0 +1,15 @@
+.widget__ping {
+  background-color: #a7bda7;
+
+  .widget__value {
+    font-size: 4.4rem;
+  }
+}
+
+.widget__ping--up {
+  background-color: #ff9618;
+}
+
+.widget__ping--down {
+  background-color: #f42a2a;
+}
